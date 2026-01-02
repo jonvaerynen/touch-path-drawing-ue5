@@ -7,6 +7,10 @@ The project focuses on system design, performance considerations, and mobile
 optimization rather than traditional source code. The core logic was implemented
 using Unreal Engine’s Blueprint visual scripting.
 
+<p align="center">
+  <img src="path_drawing_demo.png" width="650">
+</p>
+
 
 Short gameplay demo (YouTube):  
 https://youtu.be/3kGAtbvXWKQ
