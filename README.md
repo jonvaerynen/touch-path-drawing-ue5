@@ -1,4 +1,4 @@
-# Touch-Based Path Drawing System (Unreal Engine 5)
+## Touch-Based Path Drawing System (Unreal Engine 5)
 
 This repository documents my bachelor’s thesis project, where I designed and
 implemented a touch-based path drawing system for a mobile game using Unreal Engine 5.
