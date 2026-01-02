@@ -5,7 +5,8 @@ implemented a touch-based path drawing system for a mobile game using Unreal Eng
 
 The project focuses on system design, performance considerations, and mobile
 optimization rather than traditional source code. The core logic was implemented
-using Unreal Engine’s Blueprint visual scripting.
+using Unreal Engine’s Blueprint visual scripting. The project demonstrates system-level problem solving, performance analysis, 
+and technical decision-making that are applicable beyond game development.
 
 <p align="center">
   <img src="path_drawing_demo.png" width="650">
@@ -42,6 +43,7 @@ The result is a fully playable mobile game prototype demonstrating the system in
 - Character movement along the validated path
 - Adjustable path accuracy based on performance constraints
 - A playable top-down mobile game prototype to showcase the system
+- Modular system design separating input handling, visualization, and movement logic
 
 All gameplay logic and systems were implemented using **Blueprint visual scripting**.
 
